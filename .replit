@@ -17,6 +17,6 @@ deploymentTarget = "cloudrun"
 ignorePorts = false
 
 [[ports]]
-localPort = 5050
+localPort = 3000
 externalPort = 80
 exposeLocalhost = true
